@@ -15,6 +15,7 @@ public class Main {
     n = 3.14159;
     raio2 = teclado.nextDouble();
     A = n * (raio2 * raio2);
+
     System.out.printf("A=%.4f%n", A);
  
     }
