@@ -3,3 +3,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 ## Objetivo Praticar lógica de programação e fortalecer os fundamentos da linguagem Java. 
 ## Exercícios resolvidos 
 - ✅ 1000 - Hello World!
+- ✅ 1001 - Extremamente Básico
