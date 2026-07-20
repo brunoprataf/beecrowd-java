@@ -1,7 +1,7 @@
 import java.io.IOException;
  
 /*
- * Beecrowd 1001 - Extremamente Básico
+ * Beecrowd 1000 - Hello World!
  * Linguagem: Java
  * Status: Accepted
  */
