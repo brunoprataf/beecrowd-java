@@ -6,3 +6,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1001 - Extremamente Básico
 - 1002 - Área do Círculo
 - 1003 - Soma Simples
+- 1004 - Produto Simples
