@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Beecrowd 1007 - Diferença 
  * Linguagem: Java
- * Data: 20/07/2026
+ * Data: 21/07/2026
  * Status: Accepted
  */
  
