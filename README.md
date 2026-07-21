@@ -12,3 +12,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1007 - Diferença
 - 1008 - Salário
 - 1009 - Salário com Bônus 
+- 1010 - Cálculo Simples 
