@@ -9,3 +9,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1004 - Produto Simples
 - 1005 - Média 1
 - 1006 - Média 2
+- 1007 - Diferença
