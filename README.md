@@ -14,3 +14,5 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1009 - Salário com Bônus 
 - 1010 - Cálculo Simples 
 - 1011 - Esfera
+- 1012 - Área
+- 1013 - O Maior
