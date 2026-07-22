@@ -21,3 +21,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1016 - Distância
 - 1017 - Gasto de Combustível
 - 1018 - Cédulas
+- 1019 - Conversão de Tempo
