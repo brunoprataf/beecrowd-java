@@ -16,3 +16,5 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1011 - Esfera
 - 1012 - Área
 - 1013 - O Maior
+- 1014 - Consumo
+- 1015 - Distância Entre Dois Pontos
