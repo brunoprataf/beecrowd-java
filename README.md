@@ -24,3 +24,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1019 - Conversão de Tempo
 - 1020 - Idade em Dias
 - 1021 - Notas e Moedas
+- 1035 - Teste de Seleção 1
