@@ -27,3 +27,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1035 - Teste de Seleção 1
 - 1036 - Fórmula de Bhaskara
 - 1037 - Intervalo
+- 1038 - Lanche
