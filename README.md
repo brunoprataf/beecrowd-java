@@ -28,3 +28,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1036 - Fórmula de Bhaskara
 - 1037 - Intervalo
 - 1038 - Lanche
+- 1040 - Média 3
