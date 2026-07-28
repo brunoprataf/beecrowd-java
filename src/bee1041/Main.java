@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Beecrowd 1041 - Coordenadas de um Ponto
  * Linguagem: Java
- * Data: 27/07/2026
+ * Data: 28/07/2026
  * Status: Accepted
  */
  
