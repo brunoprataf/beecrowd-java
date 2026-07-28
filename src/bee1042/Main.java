@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Beecrowd 1042 - Sort Simples
  * Linguagem: Java
- * Data: 27/07/2026
+ * Data: 28/07/2026
  * Status: Accepted
  */
  
