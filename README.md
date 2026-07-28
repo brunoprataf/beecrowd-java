@@ -31,3 +31,5 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1040 - Média 3
 - 1041 - Coordenadas de um Ponto
 - 1042 - Sort Simples
+- 1043 - Triângulo
+- 1044 - Múltiplos 
