@@ -35,3 +35,5 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1044 - Múltiplos 
 - 1045 - Tipos de Triângulos
 - 1046 - Tempo de Jogo
+- 1047 - Tempo de Jogo com Minutos
+- 1048 - Aumento de Salário
