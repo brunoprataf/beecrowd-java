@@ -34,3 +34,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1043 - Triângulo
 - 1044 - Múltiplos 
 - 1045 - Tipos de Triângulos
+- 1046 - Tempo de Jogo
