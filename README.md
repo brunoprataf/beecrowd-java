@@ -33,7 +33,6 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1042 - Sort Simples
 - 1043 - Triângulo
 - 1044 - Múltiplos
-- 1049 - Animal
 - 1045 - Tipos de Triângulos
 - 1046 - Tempo de Jogo
 - 1047 - Tempo de Jogo com Minutos
