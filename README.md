@@ -42,3 +42,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1051 - Imposto de Renda
 - 1052 - Mês
 - 1059 - Números Pares
+- 1060 - Números Positivos
