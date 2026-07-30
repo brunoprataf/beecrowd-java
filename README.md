@@ -38,3 +38,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1046 - Tempo de Jogo
 - 1047 - Tempo de Jogo com Minutos
 - 1048 - Aumento de Salário
+- 1049 - Animal
