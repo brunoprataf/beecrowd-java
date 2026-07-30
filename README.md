@@ -41,3 +41,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1049 - Animal
 - 1050 - DDD
 - 1051 - Imposto de Renda
+- 1052 - Mês
