@@ -1,0 +1,59 @@
+import java.util.Scanner;
+ 
+/*
+ * Beecrowd 1060 - Números Positivos
+ * Linguagem: Java
+ * Data: 28/07/2026
+ * Status: Accepted
+ */
+ 
+public class Main {
+ 
+    public static void main(String[] args){
+ 
+Scanner teclado = new Scanner(System.in);
+    double A = teclado.nextDouble();
+    double B = teclado.nextDouble();
+    double C = teclado.nextDouble();
+    double D = teclado.nextDouble();
+    double E = teclado.nextDouble();
+    double F = teclado.nextDouble();
+    double R1;
+    double R2;
+    double R3;
+    double R4;
+    double R5;
+    double R6;
+
+
+if (A <= 0.00) {
+    R1 = 0.00;
+    }else{
+    R1 = 1.00;
+    }if (B <= 0.00) {
+        R2 = 0.00;
+    }else{
+        R2 = 1.00;
+    }if (C <= 0.00) {
+        R3 = 0.00;
+    }else{
+        R3 = 1.00;
+    }if (D <= 0.00) {
+        R4 = 0.00;
+    }else{
+        R4 = 1.00;
+    }if (E <= 0.00) {
+        R5 = 0.00;
+    }else{
+        R5 = 1.00;
+    }if (F <= 0.00) {
+        R6 = 0.00;
+    }else {
+        R6 = 1.00;
+    }
+
+        System.out.printf("%.0f valores positivos%n", R1 + R2 + R3 + R4 + R5 + R6);
+ 
+    }
+ 
+}
