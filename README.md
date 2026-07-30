@@ -40,3 +40,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1048 - Aumento de Salário
 - 1049 - Animal
 - 1050 - DDD
+- 1051 - Imposto de Renda
