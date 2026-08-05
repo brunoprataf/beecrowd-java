@@ -48,3 +48,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1065 - Pares entre Cinco Números
 - 1066 - Pares, Ímpares, Positivos e Negativos
 - 1067 - Números Ímpares
+- 1070 - Seis Números Ímpares
