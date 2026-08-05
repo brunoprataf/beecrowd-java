@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Beecrowd 1061 - Tempo de um Evento
  * Linguagem: Java
- * Data: 29/07/2026
+ * Data: 05/08/2026
  * Status: Accepted
  */
  
