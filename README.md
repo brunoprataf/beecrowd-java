@@ -44,3 +44,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1059 - Números Pares
 - 1060 - Números Positivos
 - 1061 - Tempo de um Evento
+- 1064 - Positivos e Média
