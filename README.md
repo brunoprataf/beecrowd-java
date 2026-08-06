@@ -50,5 +50,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1067 - Números Ímpares
 - 1070 - Seis Números Ímpares
 - 1071 - Soma de Impares Consecutivos I
-- 
-- 
+- 1072 - Intervalo 2
