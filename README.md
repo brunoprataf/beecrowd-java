@@ -53,3 +53,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1072 - Intervalo 2
 - 1074 - Par ou Ímpar
 - 1075 - Resto 2
+- 1078 - Tabuada
