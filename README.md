@@ -54,3 +54,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1074 - Par ou Ímpar
 - 1075 - Resto 2
 - 1078 - Tabuada
+- 1079 - Médias Ponderadas
