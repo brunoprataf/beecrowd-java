@@ -52,3 +52,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1071 - Soma de Impares Consecutivos I
 - 1072 - Intervalo 2
 - 1074 - Par ou Ímpar
+- 1075 - Resto 2
