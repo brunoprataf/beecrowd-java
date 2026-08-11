@@ -60,3 +60,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1095 - Sequencia IJ 1
 - 1096 - Sequencia IJ 2
 - 1097 - Sequencia IJ 3
+- 1098 - Sequencia IJ 4
