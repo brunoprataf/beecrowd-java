@@ -58,3 +58,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1080 - Maior e Posição
 - 1094 - Experiências
 - 1095 - Sequencia IJ 1
+- 1096 - Sequencia IJ 2
