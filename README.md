@@ -61,3 +61,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1096 - Sequencia IJ 2
 - 1097 - Sequencia IJ 3
 - 1098 - Sequencia IJ 4
+- 1099 - Soma de Ímpares Consecutivos II
