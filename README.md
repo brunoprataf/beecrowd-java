@@ -64,3 +64,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1099 - Soma de Ímpares Consecutivos II
 - 1101 - Sequência de Números e Soma
 - 1113 - Crescente e Decrescente
+- 1114 - Senha Fixa
