@@ -17,7 +17,7 @@ public class Main {
     int Y = teclado.nextInt();
     String resultado = "";
 
-    while (X != 0 || Y != 0){
+    while (X != 0 && Y != 0){
 
         if (X > 0 && Y > 0){
             resultado = "primeiro";
@@ -25,7 +25,7 @@ public class Main {
             resultado = "segundo";
         }else if (X < 0 && Y < 0) {
             resultado = "terceiro";
-        }else if (X > 0 && Y < 0) {
+        }else{
             resultado = "quarto";
         }
         
