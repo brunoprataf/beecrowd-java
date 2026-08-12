@@ -15,7 +15,7 @@ public class Main {
 
     int X = teclado.nextInt();
     int Y = teclado.nextInt();
-    String resultado = "";
+    String resultado;
 
     while (X != 0 && Y != 0){
 
@@ -28,9 +28,9 @@ public class Main {
         }else{
             resultado = "quarto";
         }
-        
+
         System.out.println(resultado);
-        
+
         X = teclado.nextInt();
         Y = teclado.nextInt();
 
@@ -39,3 +39,4 @@ public class Main {
     }
  
 }
+
