@@ -66,3 +66,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1113 - Crescente e Decrescente
 - 1114 - Senha Fixa
 - 1115 - Quadrante
+- 1116 - Dividindo X por Y
