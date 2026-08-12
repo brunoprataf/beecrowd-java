@@ -63,3 +63,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1098 - Sequencia IJ 4
 - 1099 - Soma de Ímpares Consecutivos II
 - 1101 - Sequência de Números e Soma
+- 1113 - Crescente e Decrescente
