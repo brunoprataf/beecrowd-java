@@ -68,3 +68,5 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1115 - Quadrante
 - 1116 - Dividindo X por Y
 - 1117 - Validação de Nota
+- 1118 - Várias Notas Com Validação
+- 1131 - Grenais
