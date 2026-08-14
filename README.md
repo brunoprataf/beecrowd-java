@@ -76,3 +76,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1142 - PUM
 - 1143 - Quadrado e ao Cubo
 - 1144 - Sequência Lógica
+- 1145 - Sequência Lógica 2
