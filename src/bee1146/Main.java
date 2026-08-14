@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Beecrowd 1146 - Sequências Crescentes
  * Linguagem: Java
- * Data: 13/08/2026
+ * Data: 14/08/2026
  * Status: Accepted
  */
  
