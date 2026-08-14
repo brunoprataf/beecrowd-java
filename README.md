@@ -79,3 +79,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1145 - Sequência Lógica 2
 - 1146 - Sequências Crescentes
 - 1149 - Somando Inteiros Consecutivos
+- 1151 - Fibonacci Fácil
