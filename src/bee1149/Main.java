@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Beecrowd 1149 - Somando Inteiros Consecutivos
  * Linguagem: Java
- * Data: 13/08/2026
+ * Data: 14/08/2026
  * Status: Accepted
  */
  
