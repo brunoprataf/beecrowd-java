@@ -74,3 +74,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1133 - Resto da Divisão
 - 1134 - Tipo de Combustível
 - 1142 - PUM
+- 1143 - Quadrado e ao Cubo
