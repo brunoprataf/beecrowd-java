@@ -83,3 +83,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1153 - Fatorial Simples
 - 1154 - Idades
 - 1155 - Sequência S
+- 1156 - Sequência S II
