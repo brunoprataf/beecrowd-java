@@ -82,3 +82,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1151 - Fibonacci Fácil
 - 1153 - Fatorial Simples
 - 1154 - Idades
+- 1155 - Sequência S
