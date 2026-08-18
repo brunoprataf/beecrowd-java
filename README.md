@@ -85,3 +85,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1155 - Sequência S
 - 1156 - Sequência S II
 - 1157 - Divisores I
+- 1158 - Soma de Ímpares Consecutivos III
