@@ -88,3 +88,4 @@ Soluções dos exercícios do Beecrowd desenvolvidas durante meus estudos de Jav
 - 1158 - Soma de Ímpares Consecutivos III
 - 1159 - Soma de Pares Consecutivos
 - 1160 - Crescimento Populacional
+- 1164 - Número Perfeito
